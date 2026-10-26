@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🏦 LoanPredict AI
 
 > **AI-powered loan approval prediction system** — Flask + scikit-learn + Plotly + glassmorphism UI
@@ -167,3 +168,6 @@ MIT License — free to use, modify, and distribute.
 # Loan-Approval-System
 AI-powered web application built with React, TypeScript, Vite, Tailwind CSS, and Python. Features a modern responsive frontend, form validation, API integration, interactive dashboards, data visualization, and machine learning capabilities.
 >>>>>>> 77fa1249d487be41c3263e49bdbffacfe27129ff
+=======
+# loan-prediction
+>>>>>>> 2126b7c078cfc5b9e59981b609c5193790632391
